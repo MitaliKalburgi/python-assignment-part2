@@ -1,7 +1,8 @@
 # python-assignment-part2
  
-## Restaurant Menu & Order Management System 
+## Restaurant Menu & Order Management System
 
+## 📌 Description
 This project is part of a Python assignment focused on using core data structures like **lists, dictionaries, and nested structures** to build a simple Restaurant Order Management System.
 
 ---
